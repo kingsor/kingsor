@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Software Developer (desktop/backend) | Freelancer | (ASP).NET (Core) | C# | Mobile | Xamarin | Azure | Clean Code
+
+I’m a software developer with over 17 years professional experience in designing and developing enterprise software solutions using mainly the .NET stack. I gained significant experience with the entire software lifecycle, starting from a simple proposal to a well-defined, coded, and tested solution.
+
+Highly productive with effective task management skills and a working knowledge of agile methodologies.
+I'm passionate about clean code and problem solving, constantly learning and exploring new technologies, and trends.
+
+
 <!--
 **kingsor/kingsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
