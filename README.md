@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there! I'm Edoardo 
 
 ### Software Developer (desktop/backend) | Freelancer | (ASP).NET (Core) | C# | Mobile | Xamarin | Azure | Clean Code
 
