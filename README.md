@@ -1,6 +1,6 @@
 #  Hi there! I'm Edoardo 👋
 
-**Freelance, Software Developer (desktop/backend), (ASP).NET (Core), C#, Mobile, Xamarin, Azure, Clean Code**
+**Software Developer (desktop/backend), (ASP).NET (Core), C#, Mobile, Xamarin, Azure, Clean Code**
 
 I’m a software developer with over 17 years professional experience in designing and developing enterprise software solutions using mainly the .NET stack. I gained significant experience with the entire software lifecycle, starting from a simple proposal to a well-defined, coded, and tested solution.
 
@@ -18,7 +18,7 @@ alt="azure" width="40" height="40"/>
 alt="dotnet" width="40" height="40"/> 
 </a>&nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank"> 
-<img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" 
+<img src="img/csharp-original.svg" 
 alt="csharp" width="40" height="40"/> 
 </a>&nbsp;
 <a href="https://visualstudio.microsoft.com/" target="_blank"> 
