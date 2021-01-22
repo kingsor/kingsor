@@ -41,8 +41,16 @@ alt="html5" width="40" height="40"/>
 <img src="img/css3-original-wordmark.svg" 
 alt="css3" width="40" height="40"/> 
 </a>&nbsp;
+<a href="https://www.w3schools.com/bootstrap4/" target="_blank"> 
+<img src="img/bootstrap-plain-wordmark.svg" 
+alt="css3" width="40" height="40"/> 
+</a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img src="img/javascript-original.svg" 
+alt="javascript" width="40" height="40"/> 
+</a>&nbsp;
+<a href="https://www.w3schools.com/jquery/" target="_blank"> 
+<img src="img/jquery-original-wordmark.svg" 
 alt="javascript" width="40" height="40"/> 
 </a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank"> 
