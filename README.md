@@ -7,6 +7,10 @@ I’m a software developer with over 17 years professional experience in designi
 Highly productive with effective task management skills and a working knowledge of agile methodologies.
 I'm passionate about clean code and problem solving, constantly learning and exploring new technologies, and trends.
 
+[![Profile views](https://komarev.com/ghpvc/?username=jsuarezruiz&style=flat-square)](https://github.com/kingsor)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-inamo-2431168)
+[![Blog Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://kingsor.github.io/)
+
 ## 👨🏻‍💻 Language & Tools
 <p align="left">
 <a href="https://azure.microsoft.com/en-in/" target="_blank">
