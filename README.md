@@ -13,6 +13,7 @@ I work as a freelancer on a fully remote basis.
 
 ## 👨🏻‍💻 Language & Tools
 
+<p align="left">
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
 <img src="img/dot-net-original-wordmark.svg" 
 alt="dotnet" width="40" height="40"/> 
@@ -65,7 +66,6 @@ alt="MongoDB" width="40" height="40"/>
 <img src="img/avalonia_logo.svg" 
 alt="Avalonia UI" width="40" height="40"/> 
 </a>&nbsp;
-<p align="left">
 <a href="https://azure.microsoft.com/en-in/" target="_blank">
 <img src="img/microsoft_azure-icon.svg" 
 alt="azure" width="40" height="40"/>
